@@ -1,0 +1,34 @@
+{
+    "name": "com.razgriz77.customtool.safevariables",
+    "version": "1.0.0",
+    "displayName": "Custom Tool - Safe Variables",
+    "description": "",
+    "unity": "2022.3",
+    
+    "keywords":
+    [
+        "unity",
+        "security"
+    ],
+
+    "author": 
+    {
+        "name": "RazgriZ77",
+        "email": "enriquebotella97@gmail.com"
+    },
+
+    "hideInEditor": true,
+
+    "repository": 
+    {
+        "type": "git",
+        "url": "https://github.com/RazgriZ77/CustomTool.SafeVariables.git"
+    },
+
+    "license": "ISC",
+
+    "bugs": 
+    {
+        "url": "https://www.google.com/"
+    }
+}
