@@ -1,4 +1,4 @@
-# CustomTool.SafeVariables
+SafeVariables
 
 ## Información sobre el paquete
 Este paquete contiene un script (SafeVariables.cs) que ayuda a asegurar variables importantes, ofuscando su valor en memoria. Es importante recalcar que no va a evitar que se pueda hackear, pero sí complica la faena.
